@@ -1,0 +1,580 @@
+Experto 1  
+ 
+El precio de referencia del cobre estimado es 327 USc/lb 
+ 
+▪	La pandemia Covid-19 generó un importante efecto sobre la economía mundial, al ocuparse políticas de estímulo sin precedentes a nivel global para apuntalar el crecimiento. Esto se tradujo en un ambiente de liquidez extrema, impactando positivamente los valores de todos los activos, incluyendo por cierto a metales como el cobre. 
+ 
+▪	Cuando la pandemia comenzaba a estar en retirada, surgió un nuevo shock producto de la invasión de Rusia a Ucrania en febrero de 2022, afectando a la economía mundial a través de un mayor riesgo geopolítico, alza en inflación por la escasez de alimentos y energía y problemas en cadenas de suministro. 
+ 
+▪	Este evento provocó inmediatas sanciones de Occidente a Rusia, aunque en rigor este evento se espera que se prolongue en el tiempo y sea al final el gatillante del desacoplamiento entre el mundo occidental liderado por Estados Unidos, con Europa y Japón más otros países, de un conjunto alternativo liderado por China junto a otros países como Rusia e Irán.  
+ 
+▪	Los efectos de este desacoplamiento generarán importantes consecuencias, teniendo como principal mecanismo transmisor los efectos sobre el comercio mundial, impactando el crecimiento económico y la demanda de cobre. 
+ 
+▪	Otro hecho que se constata es la aceleración en la tendencia de descarbonización e introducción de autos eléctricos, que demandan mayor cantidad de cobre por unidad producida que los vehículos de combustión. 
+ 
+▪	En el contexto de alta liquidez y alza en la inflación estadounidense más allá de lo esperado a comienzos de año, el dólar se ha fortalecido antes y durante el ciclo de alza en las tasas de interés por parte de la FED, el cual ha sido más fuerte a lo pronosticado inicialmente. 
+ 
+▪	El delgado rango de política económica disponible hace prever riesgos para los próximos años. El escenario base es el de que se logrará evitar una crisis financiera en los próximos trimestres, pero a costa de agotar las holguras disponibles con lo que el escenario de una crisis financiera mayor en los próximos años, ciertamente dentro del rango a proyectar en este ejercicio, se eleva considerablemente. 
+ 
+▪	Si bien la tasa de interés a nivel mundial se encuentra en un ciclo alcista, la alta liquidez y elevado endeudamiento generados por las medidas tomadas en pandemia incubó riesgos financieros que, estimamos, se expresarán a lo largo de esta década. 
+ 
+▪	China, mayor demandante mundial del cobre, estuvo en el primer semestre sumergida en una seguidilla de cuarentenas por los constantes rebrotes de Covid-19, poniendo en riesgo la meta de crecimiento económico oficial y haciendo que el gobierno recurra a distintos estímulos para apuntalar la actividad a partir del segundo semestre. 
+ 
+▪	El panorama de corto plazo (2022) apunta a una mejoría dada la reunión del partido comunista a fines de año donde se buscará que los indicadores sean positivos. Sin embargo, los nubarrones se intensifican a mediano y largo plazo por el desafío que significa la transición a niveles de ingreso mayor apostando a un modelo económico basado en la tecnología bajo una presión geopolítica enorme. 
+ 
+▪	Respecto al balance de mercado, en los años más próximos se presentan superávits, aunque con menor disponibilidad que lo esperado anteriormente, limitando en alguna medida la caída de precios, mientras que se siguen avizorando déficits significativos a mediano plazo. 
+ 
+▪	Los fundamentos de oferta y demanda se fortalecen a la par de un aumento esperado en la demanda de cobre por su utilización en usos ligados a la descarbonización, mencionado anteriormente, y las crecientes dificultades para realizar proyectos mineros. 
+ 
+▪	Este último aspecto solo se ha agravado en los últimos meses, especialmente por la creciente inestabilidad política en América Latina. 
+ 
+▪	El precio incentivo, que determina la entrada de nuevos proyectos de cobre, se estima en 3,25 USD/lb. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 2 
+ 
+El precio de referencia del cobre estimado es 327 Usc/lb 
+ 
+Para la estimación del precio spot del cobre para el periodo 2022-2032, se utilizó una metodología de simulación condicional estocástica, apoyada por técnicas de Data Science. 
+ 
+Para lo anterior, se hizo un análisis de regresión multilineal de las variables que afectan el precio del cobre, como lo son: producción mundial de cobre mina, costo neto de cátodo, consumo de cobre, estimación del precio del dólar, entre otros.  Una vez obtenido la ecuación que define el precio, se simula condicionalmente en un espacio gaussiano mediante generación de números aleatorios, corrigiendo según condiciones de mercado y dependencia de sucesos anteriores. 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 3 
+ 
+El precio de referencia del cobre estimado es 330 Usc/lb 
+ 
+	I. 	SITUACIÓN ACTUAL Y PRÓXIMOS PERÍODOS 
+ 
+Tal como fue proyectado en el informe de la consulta del año anterior, el precio del cobre ha presentado una alta volatilidad. Se experimentaron en este año 2022 cambios de envergadura: en poco tiempo, el precio disminuyó del orden de US$ 2.000 por TM de Fino. Esta particularidad ya no solo responde a factores puramente económicos o financieros, sino también a factores políticos del orden mundial. La volatilidad del precio podría ser en los próximos períodos muy superior a la que experimentaba en el pasado, y probablemente en la década de análisis. 
+ 
+Se proyecta para la década de análisis una demanda robusta. En general, la demanda de cobre estaría sustentada en toda la década en los siguientes fundamentos: 
+ 
+a)	La descarbonización, que acelerará el recambio desde los combustibles fósiles a la energía limpia, al incremento de la electrificación en transporte y edificación y a la eficiencia energética. 
+b)	Descentralización energética, por el impulso a las soluciones socioeconómicas de bajo voltaje, intensivas en el uso de cobre. 
+c)	Transporte, por una parte, vehículos livianos y de alta autonomía y por otra, transporte público más automatizado. 
+d)	Construcción y urbanización, con viviendas de electrificación inteligente y de menor tamaño 
+e)	Electrodomésticos multifuncionales, de bajo consumo energético. 
+ 
+Algunos analistas consideran que India incrementaría su demanda de manera considerable en comparación a su estándar de consumo (actividad industrial y habitacional), del orden de 1 millón de TM de Fino. No comparto tal apreciación, no obstante, podría suceder si desapareciera Taiwán e India se convirtiera en su reemplazante tecnológico. Aún lo anterior, el impacto podría ser del orden de 500 mil TM adicionales, no superior. 
+ 
+El fenómeno inflacionario mundial debiera llegar a su peak a fines del 2022. Sin embargo, las tasas de inflación de las economías no bajarían a niveles inferiores al 7-8%, y debieran permanecer hasta el año 2024 donde comenzaría un proceso gradual de recortes en los niveles de las tasas de interés. Por esta razón, las actividades financieras sobre los commodities serían mesuradas y acotadas a la existencia de posiciones cortas y de mediano plazo. 
+ 
+En cuanto a la oferta mundial de cobre fino, el escenario de la década en análisis podría mostrar tres elementos de observación: 
+-Primero, nuevos proyectos podrían tomar más tiempo en comenzar producción, y algunos serían cancelados. 
+-Segundo, los costos de la industria se verán incrementados. 
+
+-Tercero, la caída de las leyes del mineral, aunque se ve compensada en parte por mejoras tecnológicas en la capacidad de recuperación de los reactivos, podría mantener muy restringida la oferta. 
+ 
+Bajo la anterior apreciación del alance entre oferta y demanda, no se visualiza para la década que el precio retorne persistentemente a niveles inferiores a US$ 3,0 por libra, como también que retorne consistentemente a niveles superiores a US$ 4,5/lb, ceteris paribus, a lo menos en los próximos 4 años. Quizás podría ser visible en algunos períodos temporales, pero no serían de característica permanente. 
+ 
+En esta oportunidad, las proyecciones del suscrito se han realizado bajo esquema de teoría de los ciclos económicos y en consideraciones de oferta y demanda, los cuales serían la causal explicativa de los precios del cobre estimados a futuro. 
+ 
+II.	ESCENARIO 2022-2023 
+Considerando los puntos anteriores, el precio promedio de cierre para el año 2022 puede proyectarse del orden de US$ 8.700 por TM de fino, equivalente a CUS$/lb 3,95, muy probable de ser materializado por el mercado. 
+Asimismo, se visualiza que la cotización promedio para el año 2023 experimentará un descenso, basado en un ajuste mundial entre variables nominales y reales, que provocará nuevos niveles de paridad cambiaria en monedas, y que también impactaría a los commodities, y que podría ser del orden de CUS$ 3,50. 
+ 
+III.	ESCENARIO 2024-2027 
+Las economías probablemente estarían ya ajustadas a los niveles de tasas de interés. La actividad financiera sobre los mercados de commodities sería más lenta que lo acostumbrado. Los demandantes de cobre se encontrarían relativamente abastecidos de metal, las tasas de crecimiento económico volverían a niveles normales (3,0% mundial) y, si bien el mercado del cobre permanecería robusto en sus fundamentos, la cotización del precio disminuiría a CUS$ 3,40 en año 2024. Se considera que, a partir de tal año, recomenzaría un nuevo ciclo positivo de incremento fuerte del precio del cobre, impulsado por esperadas disminuciones en la producción de los actuales agentes del mercado, por problemas de leyes del mineral. Los nuevos proyectos cupríferos demorarán más de lo esperado en su puesta en marcha, tanto por problemas de financiamiento, desajustes en decisiones ambientales e incertidumbre respecto de aumentos de nuevos gravámenes tributarios. Aun cuando no comparto exagerados pronósticos de crecimiento de la demanda mundial de cobre, habrá un déficit mundial que impulsará los precios entre los años 2025 y 2026 del orden de US$ 3,80, US$ 4,0, para ajustarse el 2027 a US$ 3,7 por libra.   
+ 
+IV.	ESCENARIO 2028-2029 
+Por enseñanza de los ciclos económicos, este período es proclive a presentar dos problemas: -Por una parte, un efecto negativo sobre el precio del cobre, producto de mayor producción y oferta de cobre. 
+-Por otra parte, los impactos de mayor deuda pública y privada que se acumuló durante el período 
+2020-2022 debido a la pandemia y en la recuperación de las economías y del empleo, más la 
+deuda que podría provocar el financiamiento de los proyectos de expansión ejecutados entre el 2021 y 2024, podrían generar una crisis financiera y de liquidez mundial. 
+Una conservadora proyección del precio del cobre no puede soslayar los riesgos de aparición de una crisis, por lo cual se estiman, para estos años, cotizaciones promedio de US$/lb 3,2 y 3,0, respectivamente. 
+ 
+V.	ESCENARIO 2030-2032 
+De ocurrir el anterior ciclo crítico o de menor crecimiento, estos años podrían ser proyectados como período de recuperación del precio del cobre, a niveles de CUS$ 3,7 y 4,0 y 3,8 por libra, respectivamente. 
+ 
+VI.	CONCLUSIONES 
+ 
+-La década proyectada (de carácter conservador), se visualiza adecuada para la economía chilena. Un nivel de precio de referencia del cobre de largo plazo de CUS$ 3,6 nominal y 3,3 real, es adecuado para el desempeño de la industria cuprífera, y sus niveles de costo, permitiendo además recaudación fiscal relativamente estable. 
+ 
+“(Año 2001) A comienzos de la década del 2000, el precio del cobre y del petróleo eran los principales escollos de la economía. En julio de 2001, el precio del cobre en la Bolsa de Metales de Londres llegaba a 66,4 centavos, su valor más bajo en los últimos 25 meses. Pocas semanas después, caía a 59,2 centavos en su cotización diaria.” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 4 
+ 
+El precio de referencia estimado es de 349 USc/lb 
+ 
+Existe un mercado de precios futuros sobre cobre en el cual es posible asegurar hoy precios para entrega del metal en el futuro. Todos los días se transan en bolsas internacionales cerca de 40 de estos contratos futuros con madureces hasta 5 años a partir de hoy. Muchas de las expectativas sobre fundamentos económicos (p. e., demanda, oferta, inventarios) se ven reflejados en el vector de precios de estos contratos a distintos plazos, también denominado curva de precios futuros.    
+  
+La estimación de precios del cobre aquí propuesta se construye a partir de la curva de precios futuros sobre dicho metal más una prima por riesgo. La justificación para esta metodología es que la diferencia entre: (a) el precio spot esperado de cobre a T períodos, y (b) el precio futuro sobre cobre a T periodos, es un premio por riesgo porque el primero es un flujo riesgoso, mientras que el segundo es un flujo sin riesgo con la misma madurez. 
+  
+Otra forma de ver esto es a través del valor presente de una libra de cobre en T periodos a partir de hoy. Por simplicidad, consideremos que T=1 y tasas de descuento compuestas continuas. El valor presente se puede obtener de dos formas: (a) descontando el precio spot esperado a una tasa de descuento que refleje el riesgo de dicho metal, o (b) descontando el precio futuro a un año a la tasa libre de riesgo. Por ausencia de arbitraje, los valores presentes de ambas alternativas debieran ser iguales: 
+𝐸[𝑆1]𝑒−(𝑟+𝜋) = 𝐹1𝑒−𝑟 
+ 
+Aquí 𝐸[𝑆1] es el precio spot esperado a un año, 𝐹1 es el precio futuro a un año, 𝑟 es la tasa libre de riesgo, y 𝜋 es el premio por riesgo asociado al cobre. Aplicando logs y despejando se obtiene: 
+ log(𝐸[𝑆1]) = log(𝐹1) + 𝜋 
+ 
+es decir, el precio spot esperado de cobre se puede entender como el precio futuro sobre el metal (dato observado cada día) más una prima por riesgo. El principal desafío de este enfoque es modelar correctamente la prima por riesgo.  
+  
+Existe evidencia suficiente sobre la variabilidad de los premios por riego en el precio del cobre y su relación con variables macroeconómicas y variables específicas relacionadas al metal, tales como los inventarios de cobre o la presión por cobertura es el mercado. En la medida que esta información también afecte a la curva de futuros, uno puede utilizar variables de la propia curva de futuros (por ejemplo, el nivel, la pendiente y la curvatura) para modelar el premio por riesgo.  
+ 
+ 
+
+ 
+Siguiendo literatura reciente de estructuras de tasas de interés, en particular, el modelo de 
+Adrian, Crump y Moench ("Pricing the term structure with linear regressions", Journal of Financial Economics, 2013) ampliamente usado por Bancos Centrales, se construye un modelo lineal que permite extrapolar la curva de futuros a madureces hasta 10 años y estimar la prima por riesgo asociada a cada madurez. 
+  
+Usando datos mensuales de los últimos 10 años de curvas de precios futuros sobre cobre, se obtienen las 7 primeras componentes principales (PCs) de los datos, variables que representan el estado de la economía. Típicamente, la 1ra PC se relaciona con el nivel de precios de cobre, la 2da PC con la pendiente de la curva de futuros, y la 3ra con la curvatura de dicha curva. Se asume que estas componentes principales varían en el tiempo según un vector autorregresivo de orden 1. 
+  
+A continuación, usando un factor de descuento exponencialmente afín y con volatilidad variable, se relacionan los retornos de contratos futuros con las variables de estado (PCs) y shocks no anticipados a estas. Usando el panel de datos, se estima esta relación mediante mínimos cuadrados ordinarios (MCO). Finalmente, también usando MCO, se estima el precio del riesgo que asigna el mercado a cada una de las variables de estado, medidas que determinan la prima por riesgo de cobre. En efecto, en este modelo la prima por riesgo de cobre 𝜋 para distintas madureces, es una función lineal de las 7 variables de estado consideradas. 
+ 
+Usando la curva de futuros más reciente (17-ago-22), se obtienen las variables de estado implícitas y luego se estiman los premios por riesgo para cada madurez los parámetros estimados según la metodología descrita anteriormente. A partir de estas estimaciones, se obtiene el vector de precios esperados para el cobre para los próximos 150 meses, y luego, los promedios anuales que se reportan. 
+ 
+Experto 5 
+ 
+El precio de referencia del cobre estimado es 351 Usc/lb 
+ 
+En esta misma instancia, el año pasado argumenté que el último período en que el mercado mundial del cobre estuvo estable, sin factores de alteración significativa, correspondió a los años 2017 y parte del 2018.  
+ 
+En esos años no se vislumbraban cambios sustanciales de demanda ni expansiones o restricciones excepcionales de oferta. Por el lado de la demanda, (i) se sabía que el crecimiento de China estaba en una suave declinación, (ii) ya se anticipaba que los esfuerzos de mitigación del cambio climático impulsarían la demanda de metales, entre ellos cobre, y (iii) no se percibían innovaciones tecnológicas disruptivas que permitieran pronosticar tendencias marcadas en la sustitución del mencionado metal. Por el lado de la oferta, (i) se observaba que a los precios del cobre vigentes las empresas estaban retomando un interés moderado por invertir, tanto en recuperación de capacidad, como en expansiones y en el desarrollo de nuevos proyectos mineros, y (ii) no se percibían quiebres tecnológicos en los procesos productivos que permitieran prever cambios marcados en la capacidad y costos de extracción, estando internalizado el avance paulatino de la automatización y digitalización de algunos procesos mineros. 
+ 
+A valor del dólar de hoy, en ese período el precio del cobre estuvo en un promedio de 343 centavos de dólar la libra. 
+ 
+A partir de mediados de 2018 se observó una declinación en el precio de los commodities, entre ellos el cobre, debido al conflicto comercial entre EE.UU. y China, con el consiguiente impacto en la incertidumbre sobre el desempeño de la economía mundial. Esa incertidumbre se prolongó al menos hasta comienzos de 2020, momento en que tomó mayor protagonismo la pandemia del coronavirus y su efecto contractivo a nivel mundial. Esta cadena de efectos llevó a que entre 2019 y 2020 el precio promedio del cobre (en moneda de hoy) fuese de 317 centavos de dólar la libra.  
+ 
+Avanzado el año 2021, con el comienzo de la vacunación y un mayor conocimiento sobre el control de la pandemia, el crecimiento económico comenzó a revertir la tendencia negativa del 2020 y se observó una recuperación económica a niveles prepandemia. La acelerada recuperación de China junto y las buenas perspectivas para el cobre como metal clave para la mitigación del cambio climático, llevaron a un precio promedio de 2021 de 469 centavos (en moneda de hoy). 
+ 
+El ciclo alcista continuó hasta el primer trimestre de este año 2022 e incluso se agudizó al comienzo de la guerra en Ucrania, pero a partir de abril comenzó una declinación hasta los valores en torno a 360 centavos que observamos hoy, provocados por una menor demanda de China, en parte debido a nuevas restricciones sanitarias y a la vulnerabilidad de su sector inmobiliario, y por el impacto en la economía mundial derivados de la guerra, donde los efectos inflacionarios fueron seguidos por el endurecimiento de las políticas monetarias. Este panorama ha hecho prever un riesgo no despreciable de recesión mundial.  
+ 
+Para efectos de una proyección del precio tendencial de largo plazo, a partir del año 2024 en adelante, cuando se hayan disipado los efectos coyunturales, estimo que debe tomarse como referencia los valores de los años 2017-18. Un cambio que se observa en comparación con esos años es que la expansión de la oferta futura se ve más incierta. Si lo habitual es que la composición de la oferta entre proyectos base y proyectos probables y posibles sea 50% para cada tipo, lo que hoy se observa es que los proyectos base representarán un 30% de la oferta futura de cobre. Con este antecedente, se estima que el precio necesario para estimular la expansión de la oferta debe ser mayor al que se observó en el período de normalidad 2017-18 (343 centavos de dólar al valor de hoy). En definitiva, el valor tendencial a partir del año 2024 lo sitúo en 350 centavos de dólar la libra. 
+ 
+A diferencia de otras oportunidades, en que el precio coyuntural está alejado del precio de tendencia, hoy ambos están en niveles similares (360 versus 350 centavos), lo que no significa que las fuerzas que mueven el mercado estén estables en el corto plazo. El precio actual es el resultado entre el fuerte dinamismo que traía la economía mundial con la recuperación post pandemia y las condiciones contractivas que surgieron con la guerra en Ucrania y el menor dinamismo de la economía china. Esto significa que en el corto plazo el precio puede mostrar una alta volatilidad antes de converger al precio de tendencia. 
+ 
+Más concretamente y ante la imposibilidad de prever la dinámica de los próximos meses, estimo que el precio se mantendrá en los niveles actuales, lo que da un promedio de 400 centavos de dólar para este año 2022 y un precio de 360 centavos de dólar para el 2023. Como señalé antes, desde el año 2024 se observaría un precio de tendencia de 350 centavos de dólar la libra de cobre.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 6 
+ 
+El precio de referencia del cobre estimado es 351 Usc/lb 
+ 
+Demanda: Mirando el corto plazo (2022-2023), las proyecciones económicas globales y de China, principal consumidor mundial de cobre, se han deteriorado en forma importante. Las últimas proyecciones de la OECD, por ejemplo, ubican para el 2022 el crecimiento del PIB mundial en 3% y el de China en 4,4%. La caída en las proyecciones tiene que ver principalmente con los impactos negativos que ha provocado el conflicto entre Rusia y Ucrania (alza global de los precios de la energía y otros commodities causando un aumento de la inflación no vista desde los 70s, aumento de las tasas de interés por parte de los bancos centrales), y la política de Cero-Covid (cuarentenas) aplicada en China, lo que ha restringido la actividad económica y las cadenas de suministros (La economía china se expandió sólo 0,4% anual en el 2do trimestre de 2022). Para el 2023, el crecimiento económico no sería muy distinta a lo proyectado para 2022. 
+ 
+Las proyecciones de crecimiento continúan empeorando… Así lo demuestran las recientes proyecciones de la OECD, que muestran al mundo creciendo un 3% en 2022, comparado con el 4,5% que veían hace 6 meses
+Proyecciones de Crecimiento del PIB en el Mundo y 
+Economías Relevantes (OECD) 
+	Mundo	China
+ 
+	Fuente: OECD.	 
+ 
+Con respecto a la demanda de cobre refinado, la situación económica global y de China, confirmaría un menor crecimiento para 2022 y 2023, respecto al promedio histórico (2,6%, últimos 30 años). Para 2022 la expansión proyectada para el consumo global sería de 1,6% y para 2023 un 1,4%. 
+ 
+A partir del año 2024, el escenario base mejoraría bastante, asumiendo que el nivel de inflación vuelve a las metas establecidas por los bancos centrales, las tasas de interés vuelven a disminuir, generando incentivos para un escenario económico de mayor crecimiento, además de que la amenaza del Covid es, en gran parte, controlada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 7 
+ 
+El precio de referencia del cobre estimado es 355 Usc/lb 
+ 
+COMENTARIOS SOBRE PROYECCIONES DEL PRECIO DEL COBRE 
+ 
+El precio del cobre en el corto y mediano plazo. 
+El precio del cobre alcanzó un máximo anual de 486,7 c/lb en la bolsa de metales del London Metal Exchange (LME) el 7 de marzo de 2022 y desde esa fecha ha venido disminuyendo significativamente, hasta alcanzar un mínimo de 317,5 c/lb el 15 de julio pasado, lo que significa una caída de 35 por ciento en sólo cuatro meses. Entre las razones que explican esta caída del precio del cobre se encuentran los temores crecientes a que se materialice una recesión mundial, que afectaría negativamente el consumo global de cobre refinado, y el fortalecimiento del dólar estadounidense frente a otras monedas, como resultado de la decisión de la Reserva Federal de aumentar la tasa de interés, que debilita el precio del metal, que está expresado en esa moneda. El precio del cobre ha tendido a recuperarse en agosto, impulsado por una moderación de la tasa de inflación en Estados Unidos y por una disminución de los stocks de cobre refinado en bolsas de metales (LME, Comex y Shanghái). Se estima que el precio del cobre alcanzará un promedio anual de 390 c/lb en 2022. 
+ 
+Se proyecta para el año 2023 que el mercado global del cobre refinado entrará en una etapa de sobreoferta, producto básicamente de la puesta en marcha de un par de proyectos mineros de gran tamaño en la segunda mitad de 2022. Tal es el caso de la planta concentradora del proyecto Quellaveco en Perú (capacidad 300 mil toneladas anuales de cobre contenido), que ya inició sus operaciones en junio de 2022, y la planta concentradora de Quebrada Blanca en Chile (capacidad 300 mil toneladas anuales de cobre contenido) que iniciará sus operaciones hacia fines del año 2022, que en conjunto con otros proyectos de menor tamaño en otros países y expansiones de operaciones existentes, llevarán al mercado del cobre a una sobreoferta global en torno a las 385 mil toneladas de cobre en 2023. Esta sobreoferta llevará a un aumento de los stocks de cobre refinado en bolsas de metales y provocará necesariamente una disminución del precio del cobre a un promedio anual de 320 c/lb, en términos nominales, durante el próximo año. 
+ 
+Se estima que la sobreoferta de cobre refinado se va a mantener durante el año 2024, alcanzando unas 270 mil toneladas de cobre refinado, producto de la expansión de importantes operaciones mineras de cobre durante ese año, como es el caso de Manto Verde en Chile, Oyu Tolgoi en Mongolia y Kamoa Kakula en la República Popular del Congo, lo que llevará a una sobreoferta global de cobre refinado en torno a las 270 mil toneladas en 2024 y a un precio promedio del cobre sostenidamente bajo de 320 c/lb en este año. 
+ 
+Posteriormente, en 2025, 2026 y 2027, se estima que el mercado entrará nuevamente en una etapa de déficit de oferta, producto básicamente de la postergación de proyectos mineros que deberían haber estado entrando en producción hacia esos años, principalmente en Chile y Perú, y que están siendo postergados como resultado de la actual situación política y económica de estos países y el posible aumento de impuestos a las empresas mineras. A ello se agrega un consumo global de cobre refinado creciendo en esos años a tasas superiores a las históricas, producto del uso intensivo de cobre en electromovilidad y descarbonización. El crecimiento del consumo global de cobre refinado fue de 1,4% anual en el período 2014-2021 y se estima que va a crecer prácticamente al doble en el período 2021-2027, a una tasa anual de 2,7%. anual De este modo, se estima que el precio del cobre debería recuperarse a niveles de 340 c/lb en 2025, 380 c/lb en 2025 y 400 c/lb en 2027, en términos nominales. 
+ 
+El precio del cobre en el más largo plazo. 
+El precio del cobre en el más largo plazo estará definido por aquel precio que, más allá de los ciclos normales de desajuste entre oferta y demanda de cobre, permita el desarrollo de los nuevos proyectos mineros que necesita la industria global del cobre en el largo plazo. Se estima que hacia el año 2032 el mercado del cobre requerirá el desarrollo e implementación de nueva capacidad de producción de cobre de mina, más allá de los proyectos ya decididos o en etapas avanzadas de estudio por parte de las empresas mineras, por el equivalente a 6,8 millones de toneladas anuales de producción de cobre.  
+ 
+Las exigencias actuales que enfrentan los nuevos proyectos mineros se traducen en crecientes costos de inversión, bajas leyes de mineral de las reservas a ser explotadas, restricciones ambientales y conflictos con comunidades locales que dilatan la ejecución de los proyectos y crecientes costos laborales, de abastecimiento de energía y de insumos en general. A ello se suma el riesgo político en el caso de algunos proyectos mineros, particularmente en África, Chile y Perú. En estas circunstancias, se estima que el precio del cobre de largo plazo debería ubicarse en torno a los 370 c/lb, en moneda real de 2023, con el objeto de gatillar el desarrollo e implementación de la nueva capacidad de producción de cobre de mina que requiere el mercado del cobre en el más largo plazo. 
+ 
+De este modo, se proyecta un precio del orden de los 370 c/lb, en moneda real de 2023, para el período 2028 - 2032. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 8 
+ 
+El precio de referencia del cobre estimado es 360 Usc/lb 
+ 
+Luego del inicio de la pandemia a principios del año 2020, la incertidumbre en torno a la trayectoria del precio del cobre ha aumentado en forma importante. Así, el precio del cobre ha aumentado marcadamente producto de las restricciones de oferta por elementos sanitarios frente a una demanda impulsada por la gran liquidez que hay en el mundo. A este shock, se le suman los diversos efectos de la guerra Rusia-Ucrania, afectando marcadamente el precio del cobre. Por tanto, la trayectoria del precio del cobre en el corto plazo estará determinada por los distintos efectos de la reducción de las restricciones que afectan a la oferta y demanda producto de la pandemia y la guerra Rusia-Ucrania. Pero una vez superado estos shocks, son los fundamentos del mercado los que debieran primar en la determinación de la trayectoria. 
+  
+Históricamente el precio real del cobre ha presentado marcados ciclos de expansión y/o contracción, que luego pareciera tienden a revertirse hacia su media histórica, la cual se ubicaría en torno a los US$3 (deflactado por IPC de EEUU). Estos ciclos pueden durar varios años y mostrar alta volatilidad. Sin embargo, un nuevo fenómeno que afectaría la demanda por cobre en el mediano/largo plazo está relacionado con los innumerables usos asociados a atenuar el cambio climático. Así, esta nueva demanda será creciente en el tiempo, en la medida que sus usos se vayan desarrollando a precios asequibles. Esta nueva demanda permanente y creciente llevaría a su precio de largo plazo a ubicarse más arriba de su media histórica, justamente fomentando la entrada de nuevos proyectos mineros con costos operativos más elevados producto de las menores leyes.  
+ 
+A.- Corto plazo:  
+ 
+Un factor fundamental en la determinación del precio del cobre en la actualidad es la recuperación de la actividad económica mundial en la medida que se vayan disipando las restricciones sanitarias y termine la guerra. Entre los efectos que se observarían a corto plazo están: la continua reducción de las restricciones de oferta generadas por la pandemia; la reducción de la gran liquidez global impulsada por la expansividad de las políticas fiscal y monetarias de las economías desarrolladas.; aumento de costos de producción por parte de las mineras por la guerra de RusiaUcrania; paulatino enfriamiento de diversas economías producto de las políticas monetarias más contractivas para controlar la inflación; debilitamiento de la economía China (principal consumidor mundial de cobre) por efecto de la pandemia.  
+ 
+Esta combinación de efectos lleva a pensar que este ciclo de elevado precio del cobre es transitorio y se diferencia de los anteriores superciclos (en la década de los 60 y a principios de los 2000) en que aquellos se generaron por un importante crecimiento económico de zonas 2 geográficas relevantes. Ahora, sin embargo, varios de los estos elementos observados en esta coyuntura son transitorios, por lo que en la medida que se disipen este proceso de alza tenderá a normalizarse.  
+ 
+
+De esta forma, la proyección de los próximos diez años del precio del cobre considera, para el corto plazo, una reducción a partir del 2023 en la medida que se disipen los efectos transitorios de la pandemia y de la guerra Rusia-Ucrania, mientras que para el mediano plazo los fundamentos serán los que determinen la evolución del precio del cobre, los cuales siguen siendo sólidos.  
+ 
+B.- Largo plazo:  
+ 
+Diluido el efecto del ciclo de corto plazo, se espera que el precio del cobre transite sostenidamente a un nuevo nivel más alto que la media observada históricamente producto del nuevo fundamento asociado a la demanda creciente por el cambio climático.  
+ 
+a.	China: En las últimas décadas China ha pasado a jugar un rol central en el comercio mundial, afectando de paso el mercado del cobre al consumir el 52% del cobre mundial. China ha presentado un crecimiento elevado por varias décadas, centrado en la inversión y las exportaciones. El tipo de inversión que llevó a cabo, especialmente en infraestructura, equipo industrial y construcción, era intensiva en el uso del cobre, llevando a China a pasar de representar menos de 4% en 1990 de la demanda mundial por cobre a 50% en 2014, impulsando el boom de los commodities. Sin embargo, recientemente China ha cambiado su estrategia de desarrollo hacia el consumo interno y, adicionalmente, se ha visto marcadamente afectada por los efectos de las restricciones sanitarias por la pandemia. Esto último, por tanto, una superado, debiera llevar a China a crecer a niveles coherentes con una actividad más moderadas que los vistos en los últimos años.  
+ 
+b.	Ola verde: A lo anterior, deben sumarse factores que irán progresivamente influyendo en sus perspectivas. Dentro de estos, el que más destaca en los últimos años es el impulso de demanda que podría provenir de la denominada “ola verde” dados los múltiples usos que presenta este mineral para enfrentar el cambio climático. El compromiso de los gobiernos por combatir el cambio climático, el consiguiente movimiento hacia energías renovables y el mayor uso de la electromovilidad, etc., podría tener un impacto significativo en la demanda futura de cobre. Se suma la expansión de la tecnología 5G, también intensiva en el uso del metal. De todas maneras, las estimaciones en torno al impacto de estos factores en la demanda de cobre contienen un alto grado de variabilidad. De confirmarse las estimaciones más optimistas, la demanda se expandiría significativamente en la próxima década, presionando una oferta con capacidad de respuesta incierta. No es descartable que en las próximas décadas la denominada “ola verde” impulse el precio por un período más largo de tiempo.  
+ 
+c.	La oferta, en general, presentará una lenta capacidad de respuesta a los cambios de este mercado, permitiendo un crecimiento moderado. La entrada en operación de los nuevos proyectos más caros, los menores costos post guerra y la adecuación al cambio climático llevará a que la oferta responda lentamente al aumento paulatino de la demanda que dependerá, principalmente, del avance de la electromovilidad y transición energética en el mundo por la ola verde llevando el precio a su nuevo equilibrio de largo plazo, superior 
+ 
+3 a su media histórica, dando espacio para nuevos proyectos con costos de producción mayores producto de las menores leyes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 9 
+ 
+El precio de referencia del cobre estimado es 361 Usc/lb 
+ 
+Las predicciones realizadas del precio del cobre para el período 2023-2032 consideran elementos de proyección histórica del precio, donde se observa una cierta tendencia de reversión en el tiempo que depende a su vez de la variación observada en los costos de costos de producción. Adicionalmente, se consideraron elementos de predicción de demanda como las expectativas de crecimiento del consumo mundial y las expectativas de desarrollo de la industria de electromovilidad mundial, y por el lado de la oferta, el desarrollo de nuevos proyectos mineros, el rol de sustitutos del cobre refinado (reciclaje), entre otros. 
+ 
+Las predicciones realizadas podemos dividirlas en mediano plazo (2022 a 2026) y largo plazo (2027 a 2032). Como es esperable, existe más información disponible para realizar una mejor predicción para el primer período que para el segundo período, por ende, hay más certeza en las predicciones del primer período. 
+ 
+Elementos claves considerados para predicciones de mediano plazo: 
+ 
+•	Impacto del Covid en China. Existe incertidumbre respecto a la posibilidad de que nuevas variantes del Covid generen cierres en regiones de China que, dada la política estatal de cero Covid, afecten la producción industrial, y, por ende, la demanda esperada de cobre.  
+ 
+•	China está implementando una política de apoyo financiero al sector inmobiliario que esta con problemas de liquidez significativos. Este rescate financiero, mantendrá activo el sector de la construcción, evitando así una caída de la demanda de cobre en el corto plazo. Los alcances en cuanto a magnitud y extensión del apoyo son relativamente inciertos. 
+ 
+•	Existe una alta probabilidad de una contracción del producto mundial en los 18 meses siguientes, y el consiguiente impacto negativo en la demanda de commodities, particularmente, en la demanda de cobre. Las economías globales (EE. UU., Europa, entre otros) están experimentando caídas de sus niveles de PIB asociados principalmente a los efectos adversos que aún se derivan del shock del COVID (e.j. cortes en las cadenas de suministros mundiales, aumento de costos de transporte, entre otros) y de la reciente guerra entre Rusia y Ucrania. Esto definitivamente, genera presiones a la baja en la demanda de cobre existente.  
+ 
+•	Asociado al punto anterior, vemos que la inflación global se ha incrementado a niveles no vistos en décadas recientes. Por una parte, esta aumento de la inflación genera presión de costos para las compañías mineras, generando un impacto negativo en la oferta de cobre. Por otra parte, políticas monetarias contractivas recientes han generado un fortalecimiento del dólar norteamericano respecto a la mayoría de las restantes 
+monedas globales, lo que también afecta negativamente la demanda de cobre dado que las ventas de cobre se realizan principalmente en la divisa norteamericana. 
+ 
+Elementos considerados para las predicciones de largo plazo: 
+ 
+•	La demanda global de cobre seguirá creciendo a tasas cercanas al 2% impulsados por el crecimiento mundial, y en particular, del crecimiento de China una vez superado el Covid. Adicionalmente, se observará un aumento significativo en el crecimiento de la industria de electromovilidad, que se espera se duplique en tamaño en los próximos 10 años, aproximadamente.  
+ 
+•	Asigno una baja probabilidad a que la oferta disponible de proyectos mineros de cobre logre satisfacer la creciente demanda mundial, por ende, se espera en el largo plazo un exceso de demanda de cobre, presionando al alza el precio. Un elemento que explicaría que muchos proyectos en etapas tempranas de desarrollo no se concreten en el mediano plazo dice relación a la creciente incertidumbre política que existe en mercados mineros claves como Perú y Chile. Se estima que la incertidumbre tributaria existente en estos mercados reduzca la inversión en nuevos proyectos y retrase la implementación de proyectos en marcha. 
+ 
+•	Otro elemento adicional que se espera afecte negativamente la oferta de cobre en el largo plazo es el aumento de la regulación verde en el sector minero. Nuevos estándares medioambientales y sociales en la implementación de proyectos mineros reducirán la rentabilidad de proyectos actualmente bajo evaluación.  
+ 
+•	Se espera un aumento en la capacidad de sustitución de cobre refinado en el largo plazo. El rol del reciclaje de chatarras aumentará en tamaño en los próximos años, poniendo presión a la baja en el precio del cobre.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 10 
+ 
+El precio de referencia del cobre estimado es 368 Usc/lb 
+ 
+La proyección de los años 2023 a 2027 se apoya, principalmente, en la aplicación de un modelo econométrico que incorpora, como variables explicativas del comportamiento y evolución del precio, los fundamentos del mercado (proyecciones de producción, consumo y variación de stocks de cobre refinado, estos últimos medidos como semanas de consumo), el precio con un rezago (para captar la inercia y estructura autorregresiva de la cotización) y el impacto de variables financieras como el Dollar Index, la tasa de interés y las expectativas (representadas a través de las posiciones netas de agentes no comerciales), entre las más importantes. 
+ 
+La coyuntura del mercado, la base de la proyección y las perspectivas del precio para los próximos años se ve afectada, especialmente a partir del segundo trimestre del presente año, por una serie de factores que se mencionan a continuación: 
+ 
+•	Desaceleración del crecimiento de la economía mundial, especialmente de China y EE. UU. (FMI, Actualización de julio de 2022).  
+•	Desaceleración más pronunciada de lo previsto en China, como consecuencia de los brotes de Covid-19 y los confinamientos (Varias fuentes).  
+•	Aumento generalizado de la inflación (FMI, Actualización de julio de 2022). 
+•	Políticas monetarias más restrictivas y alza en las tasas de interés (Varias fuentes). 
+•	Alza del Dólar Index (Cochilco). 
+•	Nuevos efectos negativos derivados de la Guerra en Ucrania. 
+•	Importante expansión prevista para la producción de mina de la industria (Varias fuentes). 
+•	Deterioro de las expectativas (Cochilco). 
+  
+Como resultado de todos estos factores, se prevé que el mercado podría entrar en una fase de sobreoferta desde el año 2022, y en los años siguientes, situación que es compatible con los niveles de precios entregados en la planilla de proyecciones. 
+ 
+La proyección de más largo plazo asume que, a partir del año 2027, el precio convergería o fluctuaría en torno a su nivel esperado de largo plazo. Este supuesto se basa en la propiedad de reversión a la media que caracteriza a la cotización.  
+ 
+Para determinar este precio esperado de largo plazo, se proyecta la tasa de crecimiento más probable para la demanda de cobre a ese plazo y, basándose en un catastro de las operaciones y de los proyectos probables y posibles de la industria, se estima el costo marginal de largo plazo requerido para satisfacer dichos niveles de demanda (descontando del consumo total el aporte de la producción de cobre secundario). 
+ 
+La proyección de más largo plazo, por el lado de la demanda, se ve favorecida por las oportunidades que se han abierto para el cobre, como resultado de factores como la transición 
+energética y el mayor uso, producción y ventas de vehículos eléctricos, muy intensivos en el uso del metal. 
+ 
+La pregunta más compleja a responder ha sido a qué plazo y costo marginal, la producción requerida para satisfacer a la demanda puede materializarse, a través de las operaciones existentes, y los proyectos probables y posibles que existen en cartera, considerando la información de apoyo recibida de la Comisión Chilena del Cobre. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 11 
+ 
+El precio de referencia del cobre estimado es 372 USc/lb 
+ 
+Estas proyecciones se basan fundamentalmente en 4 variables que toman mayor o menor relevancia dependiendo de los horizontes de tiempo y situaciones puntuales de mercado previstas para esos periodos dentro del ciclo.  Estas variables son i) los fundamentos del mercado del cobre (balance oferta-demanda y precios necesarios para satisfacer la demanda, ii) los costos de producción de mina (y reciclaje chatarra), iii) el valor del dólar relativo a otras monedas, y iv) los flujos de capitales basados en los análisis y sentimientos de inversionistas-especuladores (efectos sobre el precio en el corto y mediano plazo) 
+ 
+El predecir cómo se comportarán estos factores en el corto-mediano plazo ya es muy difícil, hacerlo para un horizonte de 10 años es extremadamente desafiante, pero al menos se puede pensar en base a escenarios que estimamos tienen mayor probabilidad de ocurrencia.  
+ 
+Es necesario destacar que lo que se solicita es la proyección del precio para los próximos 10 años que no es lo mismo que una proyección de precio para el largo plazo. 
+ 
+El precio de largo plazo en general se estima determinando el precio que es necesario para incentivar la inversión en producción de Cobre y abastecer la demanda en un plazo más allá de un horizonte de 6 o 7 años.  En el mediano plazo los precios variarán por encima o por debajo de este precio de largo plazo siguiendo las coyunturas de mercado o desbalances temporales. El precio de largo plazo de consenso hoy se ubica en el rango de 340 a 370 cent/lb estimándose que en el futuro seguirá al alza dados los mayores Capex y Opex asociados a menores leyes de las reservas mineras, factores ambientales y sociales y un aumento en el riesgo de la inversión al tener que considerar desarrollos mineros en jurisdicciones más desafiante (Zambia, DRC, Afganistán, Pakistán, Irán, entre otros). También ha aumentado el riesgo a las inversiones mineras en jurisdicciones tales como las de Latinoamérica (Chile, Perú, Argentina) que es donde se casi ubican la mitad de los proyectos de cobre (Greenfiel + Brownfield) probables de desarrollar para cubrir la demanda hacia el 2032.  Este precio de largo plazo es en cierta forma una base importante para proyectar precios futuros para el final del periodo solicitado. 
+ 
+El mercado desde el punto de vista del balance oferta-demanda se mantendrá muy apretado durante el resto de la década, en especial a partir del 2026. La intensidad del crecimiento de la demanda tomará “momentum” al aumentar el nivel de electromovilidad y generación de energías verdes. La oferta de mina probablemente se desfasará atrasándose al crecimiento de la demanda dado que es una oferta bastante inelástica al ser técnicamente compleja, de millonarias inversiones y de largos tiempos para la puesta en marcha de nueva capacidad que siguen alargándose tanto por factores técnicos, ambientales, sociales y regulatorios. 
+ 
+ 
+ Los déficit de cobre que se proyectan hacia la segunda mitad de la década se ajustará mediante altos precios de cobre necesarios para incentivar la sustitución, miniaturización y optimización de usos del cobre y aumentando el reciclaje (siguiendo la tendencia de la última década). 
+ 
+A partir de los años 2024-2025 China ya no sería el gran motor de crecimiento de la demanda. En la segunda mitad de la década la demanda en cobre será impulsada por el crecimiento de la industria en países del sudeste asiático e India, y en especial por una mayor intensidad de uso transversal del cobre en electromovilidad, generación de energías alternativas, eficiencia energética, procesos de descarbonización y economías verdes, y finalmente por el proceso de “desglobalización” de economías desarrolladas de los procesos productivos dadas las experiencias de interrupción de cadenas logísticas y de abastecimiento  de los últimos años (pandemia-guerras-guerras tarifarias, inestabilidad social) 
+ 
+El valor del dólar tiene una altísima correlación con el precio del cobre y otros commodities. Debe considerarse que el precio se cotiza en general en USD, pero el cobre se consume en su gran mayoría en otras monedas, es así como normalmente un dólar fuerte se traduce en menores precios generándose una buena correlación.  Así es como los últimos meses hemos visto un fortalecimiento del dólar que ha tenido un impacto negativo en el precio del cobre.  
+ 
+Desde el punto de los inversionistas y el flujo de capitales continuará el interés por inversión en commodities como instrumento financiero, en especial en aquellos que tienen buenos fundamentos y se ven favorecidos por una mayor demanda proveniente de las iniciativas de sustentabilidad, descarbonización y economías verdes (Cobre, Nickel). Adicionalmente en el mediano plazo tenemos que algunos commodities como el cobre por su liquidez y volúmenes son muchas veces utilizados como protección a la inflación y por lo tanto se mantendría el interés por mantener posiciones en cobre ya sea directamente o vía Índices. 
+ 
+Las proyecciones adjuntas se basan en modelar estas variables considerando un mercado en moderado surplus el 2023 y 2024 pasando a balance el 2025 y un déficit importante a partir del del 2026-2027. La realidad cambiaria considera un Broad Dollar Index que se mantiene fuerte por los próximos 2 años y luego se debilita a niveles promedio 2019 (prepandemia).  Los flujos de capitales e interés en commodities se han alineado con el ciclo económico. Es así como se espera que el precio se mantenga fuerte llegando a un peak en los años 2026 a 2028 para luego caer bajo el precio de largo plazo hacia fines del periodo proyectado y en forma coincidente con un surplus ante la entrada de proyectos resultantes de los altos precios de años anteriores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 13 
+ 
+El precio de referencia del cobre estimado es 385 Usc/lb 
+ 
+Lado Demanda: 
+ 
+China deja de ser China ¿? ¡¡ Su ritmo de intensidad de uso baja de un 15 % a solo una expansión aprox. de 1%.  Si de una base marcadamente mayor, aprox.15 millones de toneladas. Por lo tanto, fijo una nueva meseta de consumo, pero no una expansión exponencial, que le garantizo al cobre un nuevo piso, respecto a las décadas del 80 al 90, periodo que el precio del cobre sufría un decaimiento mayor. 
+ 
+Se está apostando nuevamente por un mayor consumo de la India, ciertamente será así, si aún lejos de la expansión histórica de China. Tamaño de India lo respaldaría y su expansión económica, también, inversamente, su cultura es más pasiva y bajo sus propios padrones como hábitos, acento en ámbito construcción, mantienen sus tradiciones. Si un sector altamente demandante de cobre …. como importante fabricante de vehículos demandara más cobre vía la electromovilidad.  
+ 
+Ciertamente hay una constelación de países asiáticos de tamaño intermedio que están progresivamente creciendo económicamente a un alto ritmo, que demandaran más cobre. 
+ 
+La chatarra -cobre secundario-actúa como amortiguador ante la ausencia de suficiente cobre primario y ante precios atractivos del cobre, si con la limitación que su respuesta es acotada. Siendo que el cobre no pierde sus propiedades, por lo tanto, hay un importante trasvasije stocks acumulativos de cobre hacia los países desarrollados, que hoy en día se traduce que satisface la demanda en un rango de un 17 a 20%. Al utilizar cobre, como promedio de los promedios la extensión de vida a los bienes que se le incorpora es de una vida media de unos 20 años. En el futuro no tan lejano la “chatarra de cobre” jugara un rol más activo en la disponibilidad de cobre. 
+ 
+Indudable que la digitalización y la omnicanalidad le abre espacios al cobre en innumerables procesos y actividades con alto efecto multiplicador, aunque sean microcomponentes. 
+ 
+La industria automotriz por sí misma se ha impuesto -más allá de las normativas- con fechas definidos y próximas de incorporarse a la electromovilidad (autos/camiones/buses) que resguardará la mayor utilización del cobre y comprometerá a otras actividades o/y las condicionará. 
+ 
+Y en la reconversión de la fuente de las energías el espacio al cobre como excelente conductor estará presente aun con mayor gravitación que en el pasado, por no solo por la huella de carbono, sino que sus propias propiedades de las energías limpias. 
+ 
+Oferta: 
+ 
+Con bastantes interrogantes, por la acumulación de regulaciones de toda naturaleza, más allá de las medidas ambientales, que se han exacerbado más allá de la racionalidad y el bien común, frenando e inhibiendo el proceso de inversiones del condicionante largo plazo, en todos los países relevantes abastecedores de cobre. 
+ 
+Con la excusa de un bien insustituible y que mayormente no se renueva- en cierta medida una falacia, por cuanto el carisma y riesgosa “exploración” cumple ese rol, de incorporar oferta se ha inhibido su explotación y que los Estado deberían tener un rol preponderante en la extracción vía producción estatal o impuestos – royalties superando los márgenes e incentivos de entrada o permanencia en el negocio.  
+ 
+Es difícil encontrar una industria que al considerarla diminutivamente “extractiva “que tenga en la práctica más complejidades y riesgos a lo largo del tiempo. Si tiempo, por cuanto del proceso mencionado de exploración a plena producción pueden trascurrir 20 años…Y los bancos financistas lo saben, lo que les hace más onerosa a las compañías apalancar su financiamiento a tasas prudentes …. 
+ 
+Hay una limitante realidad, no se están desarrollando proyectos Greenfield, desde 0, tanto por lo mencionado anteriormente, como que dentro de los 62 proyectos que están identificados, globalmente, no existen de estos, depósitos primarios, con leyes de alta ponderación y reservas cubícales de mayor cuantía. 
+ 
+En este de rango de 10 años hay que incorporar al menos un ciclo de alza como de bajas por la variabilidad en los ritmos de crecimiento de la economía mundial y sucesos imponderables como conflictos bélicos y lo considerandos que no capta nuestra experiencia cognitiva … 
+ 
+En definitiva, por lo expuesto y otras razones públicamente conocidas, que no justifica explayarse, el precio del cobre debería permanecer cercano a los US$ 4 dólares en términos reales,  en periodo próximos 10 años. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 14 
+ 
+El precio de referencia del cobre estimado es 393 Usc/lb 
+ 
+Se debe tener presente que los factores relevantes que determinan el precio del cobre son los fundamentos del mercado, esto es el equilibrio entre la oferta y la demanda y junto con ello el comportamiento de la economía mundial, particularmente de China como principal consumidor del metal rojo.  
+ 
+A este respecto, se estima, especialmente en los primeros años del periodo de proyección, un mercado superavitario debido precisamente al importante ingreso de proyectos de inversión que estaban retrasados, debido entre otros aspectos a la pandemia. Sin embargo, hay elementos de riesgo que se deben considerar, particularmente me refiero a la oferta de Chile y Perú, los que en conjunto generan el 35% del cobre de mina a nivel mundial, pues cambios institucionales, en el caso de Chile y presiones de las comunidades e inestabilidad política en Perú, podrían limitar la producción de ambos países, lo que naturalmente restringiría la oferta mundial de cobre.  
+ 
+Junto a lo anterior, hay que considerar el comportamiento de la economía mundial y del gigante asiático, el que actualmente capta el 55% del consumo de cobre del planeta. Todo indica que el proceso de normalización de tasas de interés por parte de los bancos centrales, con el objeto de controlar la inflación, limitará el ritmo de crecimiento de la demanda por cobre. Asimismo, preocupa la desaceleración de China y la velocidad de recuperación del crecimiento futuro es una incógnita, lo que naturalmente generará alta volatilidad y pondrá freno a incrementos bruscos en el precio del metal. El principal riesgo de China es su alto nivel de endeudamiento, lo que naturalmente incide en el futuro desempeño económico. Al respecto, el politburó, máximo organismo de decisión del partido comunista chino, ha señalado que persistirá en una política fiscal proactiva y una política monetaria prudente. 
+ 
+Sin embargo, a pesar de estos baches en el corto plazo, estimo que el futuro para el cobre es promisorio, pues en la segunda parte del período de proyección veremos crecientes déficits debido a un importante crecimiento en la demanda a lo que la oferta no podrá responder con la velocidad que se requiere, debido a la caída en las leyes del cobre, además, se van a requerir mayores recursos para inversión, a lo que se agrega las limitaciones para el financiamiento. Se debe tener presente que cada día es más difícil hacer minería, pues las normativas ambientales y comunitarias, la llamada licencia social, son más exigentes. Junto a lo anterior se debe considerar que parte importante de los nuevos proyectos se ubican en zonas geográficas potencialmente inestables, me refiero especialmente a África. 
+ 
+En los próximos diez años 1.000 millones de personas de economías emergentes se trasladarán del campo a zonas urbanas para lo cual se van a requerir obras de infraestructura y construcción, particularmente me refiero a India, donde actualmente el 66% de sus casi 1.400 millones de habitantes viven en zonas rurales. Hoy el consumo per cápita de cobre en esta nación es de 0,4 kg, en tanto que en China alcanza a 9 kg, Corea 12 kg y Japón 8 kg, de modo tal que el espacio de crecimiento del consumo de cobre en India es enorme. 
+ 
+Además, la electromovilidad y las energías limpias impulsarán el consumo de cobre. En efecto, los autos eléctricos emplean 80 kg de cobre en tanto que los convencionales 23 kg. Hoy se producen 6 millones de vehículos eléctricos, mientras que hacia el 2030 se producirán 30 millones, los que van a demandar, por este concepto, del orden de 2,4 millones de toneladas de cobre. Asimismo, es preciso señalar que las energías renovables utilizan 3,5 veces más cobre que las convencionales, estimándose que por este concepto se requerirán hacia el año 2030, 2,8 millones de toneladas adicionales de cobre. 
+ 
+Por cierto, un potencial elemento de riesgo en esta proyección son las tensiones geopolíticas que se pueden generar entre los dos gigantes de la economía mundial como son precisamente Estados Unidos y China.  
+ 
+Esta disputa entre las dos principales economías del orbe es de largo alcance y estará presente en los próximos años, porque se debe considerar que lo que está en juego es la futura hegemonía mundial. 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 15 
+ 
+El precio de referencia del cobre estimado es 396 Usc/lb 
+ 
+Se usó la información disponible en el Banco Central de Chile, Cochilco, FRED, y noticias públicas de la web, hasta el 19 de agosto en la mañana. 
+ 
+Con bases de datos extraídas de estas fuentes, se realizó un análisis econométrico de alta, mediana y baja frecuencia para llegar a los resultados entregados. 
+ 
+Se cotejaron estos resultados con las últimas publicaciones académicas al respecto y también con la información del entorno sectorial y macroeconómico global. 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 16 
+ 
+El precio de referencia del cobre estimado es 405 Usc/lb 
+ 
+Se parte de la base que la situación económica mundial se va a mantener este año, sin que Europa ni Estados Unidos entren en recesión. En 2023 la situación será mejor como ya lo señalan las proyecciones de inflación del FMI y de otros organismos mundiales, lo que permitirá mejorar el precio del cobre respecto a agosto de 2022. Si el precio no aumenta más que 370 c/lb moneda nominal, es porque habría un leve aumento de los inventarios en bolsa dados los proyectos que estarán entrando en producción a fines de 2022 y durante 2023.  
+ 
+Lo mismo ocurrirá en la economía china. De ahí que las proyecciones para el resto de la década suponen que no habrá situaciones que causen otra crisis económica en los años venideros (por ejemplo, una profundización de la guerra en Ucrania). Por ello, el precio del cobre debiera ir en aumento en el resto de la década ya que hay déficit muy importante de proyectos viables que puedan satisfacer la demanda, tal como indica el análisis de Cochilco presentado al Panel, y el análisis de otras agencias que proyectan el precio del cobre.  
+ 
+Hay que considerar, además, que Chile no definirá pronto su situación política, y que por ello la inversión estará detenida en buena medida en 2023, y tal vez más allá. El déficit de producción hacia adelante, con Chile contribuyendo muy poco al crecimiento de la producción y tal vez decreciendo su producción, es severo. 
+ 
+ 
+ 
+ 
+Experto 17 
+ 
+El precio de referencia del cobre estimado es 409 Usc/lb 
+ 
+Antecedentes Generales 
+Los años recientes han sido volátiles y complejos para el mundo. La pandemia del Covid-19 y sus consecuencias sociales, económicas y fiscales han sido relevantes alrededor del globo. En lo que va corrido del 2022, se ha observado en prácticamente todas las economías una fuerte presión inflacionaria derivada de las inyecciones de liquidez para sobrellevar la crisis sanitaria y de los aumentos de costos en las cadenas logísticas, un alza sostenida de tasas de interés para contrarrestar estas mayores presiones de precios y la consecuente desaceleración de la actividad económica en relación con el año anterior. 
+ 
+No obstante, lo anterior, en el último tiempo se observa un gradual término del ciclo inflacionario, puesto que han empezado a estabilizarse los precios internacionales de alimentos y combustibles junto con menores costos de transporte marítimo. Lo anterior augura que las tasas de interés van a seguir subiendo en el corto plazo, pero con mayor moderación. En este contexto, es de esperar que el PIB de EEUU crezca en torno a 2% anual el 2022; la Zona Euro cerca de 3,2% y China alrededor de 4%. Esto se traduciría en un crecimiento económico mundial en torno a 3% anual durante este año (con algunos países enfrentando una recesión técnica), cifra que se compara con un 5,9% del año anterior. 
+ 
+El 2023 debiera mostrar una reducción en las tasas de interés consecuente con una tasa de inflación más controlada, lo que permite prever un crecimiento mundial aún bajo para el 2023 (del orden de 2,6%), pero creciente, lo que permite vislumbrar mejores perspectivas para el año 2024 en adelante. 
+ 
+Demanda Mundial de Cobre 
+La demanda del cobre seguirá fuertemente vinculada a la actividad económica mundial y, especialmente, a China que representa más del 50% del consumo mundial del metal rojo.  
+ 
+En meses recientes, China ha mostrado una desaceleración importante, creciendo solo 0,4% en el segundo trimestre del año, con los sectores industrial e inmobiliario golpeados por los sucesivos confinamientos decretados para contener los contagios de Covid-19. El gobierno ha anunciado un importante paquete de apoyo para el sector inmobiliario, pero las expectativas de crecimiento están lejos de los pronósticos iniciales, siendo más factible alcanzar tasas algo sobre el 5% recién hacia el año 2023. 
+ 
+EEUU también se ha venido desacelerando incluso cayendo en recesión técnica. Si bien ha logrado conservar el dinamismo del consumo, la inversión se ha mantenido a la baja. Las presiones inflacionarias han obligado a la FED a elevar fuertemente la tasa de interés, lo que a su vez ha derivado en una revisión a la baja en las expectativas de crecimiento del PIB para este año de 4% a 2% anual. Estos ajustes ya han comenzado a tener efecto, con expectativas a la baja de la inflación y menores alzas esperadas de tasas de interés, así como una mayor confianza de los 
+
+consumidores. Para el 2023, se espera que el PIB de EE.UU. crezca en torno a 1,0%-1,5% y repunte del 2024 en adelante. 
+ 
+La Unión Europea y Reino Unido muestran escenarios similares al anteriormente descrito, puesto que los aumentos de tasas de interés deberían entregar señales de estabilización de precios hacia la última parte del 2022. No obstante, estas economías se encuentran afectadas en forma importante por los efectos de la guerra en Rusia y Ucrania, situación que llevará a que el año 2023 se desacelerarán en forma importante, no descartando que algunas economías europeas pudiesen entrar en recesión.   
+ 
+Cabe mencionar también el caso de India cuya recuperación económica hacia la segunda parte del 2023 debiera traducirse en una mayor demanda por cobre, particularmente asociada a la construcción de trenes, líneas de transmisión, etc. Esto daría un impulso adicional al consumo mundial del metal rojo. 
+ 
+Bajo este escenario, la demanda por cobre debiera continuar al alza, con un impulso que estará fuertemente influido por la ejecución del fondo inmobiliario anunciado por China y por la inyección de recursos que autorizó recientemente el Congreso americano para hacer frente al cambio climático, todo lo cual redunda en una mayor demanda por el metal rojo en los próximos años. En un horizonte más largo, la transición energética en que se han embarcado la mayoría de las económicas del mundo traerá consigo una creciente demanda por cobre, asociado a la generación y transmisión eléctrica, la electromovilidad, etc. 
+ 
+Esto hace prever que la demanda de cobre a nivel mundial experimentará un crecimiento del orden de 2,0% a 2,5% promedio anual en los próximos años. 
+ 
+Oferta Mundial de Cobre 
+La oferta de cobre está fuertemente concentrada, liderado por la producción de Chile (con más de 26% de la producción mundial), Perú, China, Congo y EEUU. Influyen en su desempeño esperado factores locales y globales. 
+ 
+Del punto de vista global, la pandemia del Covid-19 ha elevado los costos generales y el precio de los commodities, mientras que la invasión de Rusia a Ucrania y otros conflictos (como el incipiente trance de China con Taiwán) aumentan la percepción de riesgo de la oferta de cobre y, consecuentemente, ejercen una presión al alza en los precios. 
+ 
+Del punto de vista local, en Chile la producción de cobre se ha visto desmejorada en el último año por las mayores presiones de costos, y también por la incertidumbre que ha generado la discusión política y tributaria. A ello se suma la dificultad que han enfrentado proyectos mineros para la obtención de permisos ambientales y el aumento esperado en los costos laborales.  
+ 
+La inestabilidad en el marco normativo también ha estado presente en Perú (que sumado a la producción de Chile totalizan casi 40% de la producción mundial), con la consecuente mayor percepción de riesgo. El resto del mundo también ha estado sujeto a mayores exigencias 
+regulatorias, conflictividad social y restricciones de financiamiento, lo que hace prever que será más desafiante sacar adelante los proyectos que hoy están en carpeta. En este contexto, es de esperar que la oferta de cobre refinado se vea ajustada en los siguientes años creciendo igual o algo por debajo de la demanda.  
+ 
+Por su parte, la posibilidad que se masifiquen sustitutos del cobre (como el aluminio) es bastante baja y la opción de reemplazo por chatarra es acotada por limitaciones de stock. 
+  
+En cuanto a los costos, el cash cost ha experimentado un alza importante resultado de los mayores precios de combustibles, materiales, transporte y logística. Lo anterior se suma a la baja de la ley de algunos yacimientos y restricciones de acceso al recurso hídrico. En consecuencia, es difícil prever un cambio de tendencia en la presión alcista de los costos (C1 y C3). 
+ 
+De esta forma, se espera un aumento de la oferta de cobre refinado para los próximos años por parte de los principales productores, pero sujeto a restricciones que podrían hacer difícil satisfacer la mayor demanda mundial que se espera. Con todo, el escenario de oferta y demanda por cobre refinado permite prever que el balance estará bastante ajustado y con bajos inventarios, lo cual debería presionar los precios a mantenerse en niveles reales comparables a los actuales durante los siguientes años. 
+ 
+Balance y Precio del Cobre 
+Los inventarios a nivel mundial han estado en niveles relativamente bajos en términos históricos. Mientras éstos no se recuperen y no se observe una mayor producción, por sobre la demanda, es dable esperar que los precios del cobre se mantengan elevados. 
+ 
+El 2022 cerró el primer semestre con un precio promedio del cobre de USD 4,4 la libra y, de acuerdo con las proyecciones, debiera promediar en el año en torno a USD 4,0 la libra dado los niveles más bajos observados en la segunda mitad del año. Durante el 2023, el precio debiera repuntar hacia el segundo semestre, acorde con la mayor actividad económica mundial, promediando en torno a USD 3,85 la libra. El mundo enfrentará el 2024 con un mayor dinamismo derivado de las menores tasas de interés y una inflación controlada. Lo anterior, sumado a una gradual depreciación del dólar a nivel mundial llevaría al alza el precio del cobre, alcanzando niveles por sobre los USD 4,0 la libra en ese año. Hacia delante, los precios nominales deberían seguir subiendo en línea con lo ajustado que se proyecta el mercado del cobre refinado producto de una demanda creciente y una oferta que espera evolucione más ajustada de como lo ha hecho hasta ahora. En este contexto, se proyecta que el precio nominal se elevará paulatinamente en los siguientes 10 años para ubicarse por sobre los US$5 la libra hacia fines del horizonte de proyección. Con esto, el precio real del cobre se proyecta algo por encima de los US$4,0 para todo el período de proyección, alcanzando un precio promedio, en centavos de dólar del año 2023, para el período 2023-2033 de US$4,10 la libra.   
+ 
+ 
+ 
+Experto 18 
+ 
+El precio de referencia del cobre estimado es 416 Usc/lb 
+ 
+Para la elección de la metodología se consideró que, más que una trayectoria específica de año por año del precio del cobre, lo que DIPRES requiere de los expertos es una estimación del valor promedio del precio del cobre para el período 2023-2032. 
+ 
+Este output será promediado con el de 19 expertos más, con el objetivo de determinar el precio del Cobre de largo plazo a incorporarse en las estimaciones de Balance para la Ley de Presupuestos. 
+ 
+Así, se tomó información de Citi research, Cochilco, Dipres y Bloomberg. Para la primera parte de la estimación (2003-2026) se consideró una metodología que calcula tanto oferta como demanda de cobre a nivel mundial. Hacia adelante se consideraron además factores como la mayor intensidad de uso de cobre a futuro, dada por la creciente preocupación por la descarbonización y el medioambiente. Acá toman relevancia temas como la electromovilidad, intensiva en el uso de cobre. 
+ 
+Con todo, se estima que hacia el largo plazo (2027-2032) tomará más relevancia una demanda por cobre que va a crecer más que la oferta del mismo, lo que además incentivaría la comercialización de chatarra de cobre, elemento también presente en el cálculo. 
+ 
+Al mismo tiempo se tiene que la demanda por cobre estaría por sobre la oferta (en una proporción creciente hacia el futuro). Esto, por cuanto se ve que gran cantidad de los proyectos en carpeta para la mayor extracción de cobre no se realizarían. No al menos en las fechas estipuladas actualmente. 
+ 
+Con todo, el precio real (base 2023) estimado para el cobre en 2032 asciende a USc/lb 4,22, con un promedio de USc/lb 4,15. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Experto 19 
+ 
+El precio de referencia del cobre estimado es 416 Usc/lb 
+ 
+El pronóstico responde a una estimación en base a un modelo econométrico del tipo VAR de 2 rezagos, con frecuencia anual, el que considera 5 variables endógenas al mercado del cobre y 11 variables exógenas. Las variables endógenas del modelo incluyen, además del precio real del cobre spot, el precio futuro a 3 meses, los stocks totales en bolsas, las posiciones comerciales largas y el índice de especulación T de Working. 
+ 
+En cuanto a las variables exógenas al mercado del cobre el modelo incluye el índice de producción industrial mundial, el Baltic Dry Index, el índice de precios de acciones Standard & Poor’s 500, el precio real del petróleo (WTI), el índice de commodities de Goldman Sachs, la fortaleza del dólar (Trade Weighting US Dollar Index), la tasa de interés real LIBOR, la oferta monetaria (M2) de China, USA y la Unión Europea y el índice de volatilidad de mercado VIX. 
+ 
+A partir del modelo se calculan elasticidades para cada variable, así como funciones de impulso respuesta y otras estadísticas de interés. Luego, con pronósticos de las distintas variables exógenas para el periodo 2021-2022 (en este último año estimadas al 16 de agosto de 2022) se simulan las variables del mercado del cobre en el modelo, con objeto de determinar los pronósticos del precio real spot del cobre, el que se reporta en el archivo MS Excel adjunto. 
+ 
+Desde el punto de vista de los supuestos con los cuales se construyó la estimación, ésta considera que la crisis sanitaria del COVID-19 desaparece, pero persiste como efecto de largo plazo una desglobalización del mundo, en el cual se agudizan como polos comerciales China y Estados Unidos. En términos efectivos se ve un retroceso del mundo de dos décadas en cuanto al nivel de integración comercial, retrocediendo este a 2002 en términos prácticos. Esto conlleva a un escalamiento global de la inflación, que persistiría en niveles superiores a 2-3% hasta inicios de 2024, lo que gatilla un aumento en las tasas de interés de las principales economías mundiales. El dólar por su parte se tiende a estabilizar en los niveles actuales, mostrando una fortaleza similar a lo visto en el mundo en el periodo 1997-2002. Aunque no se vislumbran recesiones mundiales relevantes para el periodo de pronóstico, sí se considera una alta volatilidad en los mercados en 2023, la que tendería a disminuir en 2024. 
+ 
+Si bien los fundamentals del mercado del cobre se ven fuertes en el periodo de pronóstico, la oferta es capaz de abastecer a la demanda, manteniendo los inventarios en las bolsas globales en niveles cercanos a los actuales. 
+  
+El pronóstico del precio del cobre realizado considera alcanzar condiciones de equilibrio de largo plazo en 2025, en apenas poco más de 3 años desde iniciado el pronóstico. Esto pues los fundamentos microeconómicos y macroeconómicos debieran tender a estabilizarse en dicho equilibrio en el mediano plazo.  
+ 
+En resumen, tanto el precio de largo plazo como el precio promedio derivado son significativamente mayores a los proyectados el año pasado. Sin embargo, en gran parte esta diferencia se explica por la alta inflación evidenciada en 2022 y que se espera se mantenga hasta inicio de 2024 (aunque decreciente hasta alcanzar niveles cercanos al 2%). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Experto 20 
+ 
+El precio de referencia del cobre estimado es 436 USc/lb 
+ 
+La proyección del precio del cobre se basa en los perfiles de variables reales y financieras relevantes para su trayectoria, las que incluyen indicadores de actividad económica de los principales consumidores de cobre, inventarios en las distintas bolsas de metales, precio del petróleo como proxy de costos, y un índice de tipo de cambio real de EE. UU., el que permite incorporar el efecto en demanda relativa entre principales consumidores, más allá del simple efecto denominación sobre el precio del metal. En el tipo de cambio real de EE. UU. se considera un ajuste dado por el tipo de cambio real de China para incorporar el efecto de demanda relativa en el principal demandante de cobre que no se ve completamente capturado en la variación del dólar canasta real. 
+ 
+Los gráficos a continuación entregan una comparación de los perfiles de estas variables utilizadas para el ejercicio actual y el realizado en agosto 2021, de manera de dimensionar los cambios que se han observado. 
+ 
+En este ejercicio se realiza un ajuste al alza en la proyección de las variables de importaciones de cobre y a la baja en los inventarios en bolsa, para reflejar un mercado que podría estar más ajustado hacia adelante ante cambios estructurales que propiciarían una mayor demanda.  
+ 
+La ventana de tiempo considerada para las estimaciones corresponde a 2000 a 2022, con datos en frecuencia trimestral. 
+ 
+De los ejercicios, el precio nominal del cobre para 2022 se estima en un promedio de US$4,15 la libra (que asume una recuperación acotada hacia el cierre de este año, considerando las condiciones actuales de mercado). Hacia 2023-2026 se proyecta un aumento gradual del precio hasta niveles de US$4,52 la libra, explicado principalmente por una depreciación del dólar global, luego de los aumentos significativos del último tiempo, así como por niveles de inventario de cobre que seguirían bajos. Esto se ve compensado por un escenario de crecimiento global que sigue ralentizándose durante el 2023, así como un precio del petróleo (proxy de costo) que se normaliza ante la menor demanda mundial y la disminución de las primas por riesgo asociadas a la incertidumbre de la oferta. Para la ventana de tiempo 2027-2032, se proyecta un precio del cobre que sigue aumentando gradualmente en términos nominales, para finalizar en torno a US$5,48 la libra, ante importaciones de cobre que seguirían aumentando a un ritmo más acelerado versus lo proyectado anteriormente. 
+ 
+En conclusión, se estima un precio promedio nominal para el periodo 2023-2032 de US$4,8 la libra, lo que arroja un precio promedio real de US$4,36 la libra, de acuerdo con la serie de inflación en dólares entregada. 
